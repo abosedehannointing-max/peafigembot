@@ -1,0 +1,31 @@
+# Session files (contain login tokens - NEVER COMMIT THESE)
+*.session
+*.session-journal
+
+# Member data files
+*.json
+*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
